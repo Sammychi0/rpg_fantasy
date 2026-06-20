@@ -1,3 +1,12 @@
+# Final Project
+Michael Sam C. Apale  
+BSCPE 1-4  
+**Note: This is only a copy of the rpg_fantasy_game**
+
+Original Repository: https://github.com/Grimmys/rpg_tactical_fantasy_game.git
+
+---
+
 # RPG Tactical Fantasy Game
 
 [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
